@@ -4,7 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.memorys"
 		version="0.0.1">
-	<name>MemoryS</name>
+	<name>Aideen's Memory Game</name>
+<description>Test your memory!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
