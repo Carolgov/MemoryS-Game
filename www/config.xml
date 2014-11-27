@@ -5,6 +5,7 @@
 		id="com.game.memorys"
 		version="0.0.1">
 	<name>aideen's memory game</name>
+<description>test your memory!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
